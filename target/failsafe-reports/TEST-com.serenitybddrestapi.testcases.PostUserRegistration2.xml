@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.serenitybddrestapi.testcases.PostUserRegistration2" time="0.771" tests="1" errors="1" skipped="0" failures="0">
+<testsuite name="com.serenitybddrestapi.testcases.PostUserRegistration2" time="0.195" tests="1" errors="1" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_221\jre\bin"/>
@@ -64,7 +64,7 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="registerNewMember" classname="com.serenitybddrestapi.testcases.PostUserRegistration2" time="0.771">
+  <testcase name="registerNewMember" classname="com.serenitybddrestapi.testcases.PostUserRegistration2" time="0.195">
     <error type="java.lang.NullPointerException:">java.lang.NullPointerException: null
 	at io.restassured.internal.print.ResponsePrinter.print(ResponsePrinter.java:46)
 	at io.restassured.internal.ValidatableResponseOptionsImpl.logResponse(ValidatableResponseOptionsImpl.java:423)
