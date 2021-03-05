@@ -1,0 +1,6 @@
+com\serenitybddrestapi\testcases\AuthenticationRequest.class
+com\serenitybddrestapi\testcases\GetCountryCapital.class
+com\serenitybddrestapi\testcases\PostUserRegistration2.class
+com\serenitybddrestapi\utility\CommonUtil.class
+com\serenitybddrestapi\testcases\PostUserRegistration.class
+com\serenitybddrestapi\testcases\GetCountryResponse.class
