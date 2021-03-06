@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.serenitybddrestapi.testcases.GetCountryCapital
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.26 sec - in com.serenitybddrestapi.testcases.GetCountryCapital
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.028 sec - in com.serenitybddrestapi.testcases.GetCountryCapital

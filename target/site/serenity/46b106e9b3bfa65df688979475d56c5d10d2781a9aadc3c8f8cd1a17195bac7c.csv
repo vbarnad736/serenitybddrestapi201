@@ -1,3 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
 "Get country response","Get country info","SUCCESS","2021-03-05T20:38:03.274+05:30[Asia/Calcutta]","0.0","1.19"
-"Get country response","Get country error not found","SUCCESS","2021-03-05T20:38:04.463+05:30[Asia/Calcutta]","0.0","1.21"
+"Get country response","Get country response","SUCCESS","2021-03-06T13:21:41.194+05:30[Asia/Calcutta]","0.0","0.36"
+"Get country response","Get country error not found","SUCCESS","2021-03-06T13:21:41.56+05:30[Asia/Calcutta]","0.0","0.82"

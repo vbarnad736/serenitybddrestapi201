@@ -1,2 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
 "Post user registration","Register new member","SUCCESS","2021-03-05T20:38:05.738+05:30[Asia/Calcutta]","0.0","0.97"
+"Post user registration","User exists already","SUCCESS","2021-03-06T13:08:58.116+05:30[Asia/Calcutta]","0.0","0.38"
+"Post user registration","Register user","SUCCESS","2021-03-06T13:21:42.447+05:30[Asia/Calcutta]","0.0","0.69"
