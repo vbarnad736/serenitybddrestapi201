@@ -1,3 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Authentication request","In valid valid user authentication","SUCCESS","2021-03-06T13:21:30.832+05:30[Asia/Calcutta]","0.0","6.68"
-"Authentication request","Valid user authentication","SUCCESS","2021-03-06T13:21:37.553+05:30[Asia/Calcutta]","0.0","1.29"
