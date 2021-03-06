@@ -19,7 +19,7 @@ public class GetCountryResponse {
 	}
 	
 	@Test
-	public void getCountryInfo() {
+	public void getCountryResponse() {
 		SerenityRest.rest().given()
 		.when()
 		.get("/name/INDIA")

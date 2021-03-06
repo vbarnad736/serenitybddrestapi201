@@ -19,7 +19,7 @@ public class GetCountryCapital {
 	}
 	
 	@Test
-	public void assignment2() {
+	public void verifyCountryCapital() {
 		SerenityRest.rest().given()
 		.when()
 		.get("/name/norway")
